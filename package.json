@@ -1,0 +1,22 @@
+{
+  "name": "interest-list",
+  "version": "0.0.1",
+  "description": "Interests list.",
+  "main": "interest-list.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LukaszWatroba/interest-list.git"
+  },
+  "keywords": [
+    "interest",
+    "interests",
+		"hobbies",
+		"tags"
+  ],
+  "author": "Łukasz Wątroba <l@lukaszwatroba.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukaszWatroba/interest-list/issues"
+  },
+  "homepage": "https://github.com/LukaszWatroba/interest-list"
+}
