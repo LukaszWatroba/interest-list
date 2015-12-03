@@ -3,6 +3,16 @@
   "version": "0.0.1",
   "description": "Interests list.",
   "main": "interest-list.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^2.3.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/LukaszWatroba/interest-list.git"
@@ -10,8 +20,8 @@
   "keywords": [
     "interest",
     "interests",
-		"hobbies",
-		"tags"
+    "hobbies",
+    "tags"
   ],
   "author": "Łukasz Wątroba <l@lukaszwatroba.com>",
   "license": "MIT",
