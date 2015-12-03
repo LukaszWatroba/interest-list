@@ -1,6 +1,6 @@
 {
   "name": "interest-list",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Interests list.",
   "main": "interest-list.js",
   "directories": {
