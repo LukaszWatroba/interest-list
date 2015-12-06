@@ -6,7 +6,7 @@ var data = require('../data.json');
 var _ = require('lodash');
 
 test('get all interests', function (t) {
-  // console.log(_.chain(data).sortBy().uniq().value());
+  console.log(_.chain(data).sortBy().uniq().value());
 
   t.equal(interests.getData().length, data.length, 'data list should be the same lenght as data.json');
   t.type(interests.getData(), Array, 'data list is an array');
